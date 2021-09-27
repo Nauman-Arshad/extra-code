@@ -1,0 +1,2 @@
+ setInterval(UpdateTime, 1000);
+ npx json-server data/db.json --port 8000
